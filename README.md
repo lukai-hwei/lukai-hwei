@@ -1,1 +1,8 @@
-<img src="https://i.pinimg.com/originals/a1/52/6b/a1526b2bf1a0b604df235e6a80a76bd1.gif"/>
+<div align="center">
+  <i>"I can't believe i chose the mountains</i><br>
+  <i>everytime you chose the sea"</i>
+</div>
+    <br>
+<div align="center">
+<img src="https://i.pinimg.com/originals/b8/4e/ef/b84eeffcdcface511c22a42609060018.gif" align="center"/>
+</div>
