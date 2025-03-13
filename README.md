@@ -20,7 +20,7 @@
     <br>
     More info,,,<br>
     I'm a huge <i>Los Campesinos!</i> and <i>Crywank</i> enjoyer,<br> 
-    I often put lyrics of the former on my rentries<br>
+    I often put lyrics of the first on my rentries<br>
     <br>
     I play five gacha games on a daily basis...<br>
     Former league player, but I still like the characters!<br>
