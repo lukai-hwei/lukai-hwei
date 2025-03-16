@@ -1,7 +1,6 @@
 <div align="center">
   <i>"I can't believe i chose the mountains</i><br>
   <i>everytime you chose the sea"</i>
-  
   <br>
   ♡
 </div>
