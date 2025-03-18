@@ -14,7 +14,12 @@
   <p>
     Computer science student that spends more time in ponytown than outside<br>
     Mostly offtab, whisper to interact!<br>
-
+<div align="center">
+  <a href="https://unbrokenblade.straw.page/">Strawpage!</a>ㅤㅤㅤㅤ
+  <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤ
+</div>
+  <br>
+  
 ![](https://komarev.com/ghpvc/?username=lukai-hwei&label=visitors+++&color=2d2f59)
 <br>
     ─── ⋅ ☆ ⋅ ───<br>
@@ -31,11 +36,6 @@
   </p>
 </div>
 <div align="center">
-  <a href="https://unbrokenblade.straw.page/">Strawpage!</a>ㅤㅤㅤㅤ
-  <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤ
-</div>
-<div align="center">
-  <br>
   
   <a href="https://www.last.fm/user/trufflealexs"><img src="https://lastfm-recently-played.vercel.app/api?user=trufflealexs&footer_style=compact_stats&count=1&width=400&loved=true&header_style=none&bg_color=151B1C" alt="what">
 </div>
