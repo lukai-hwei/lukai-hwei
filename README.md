@@ -6,7 +6,7 @@
 </div>
     <br>
 <div align="center">
-  <a href="https://open.spotify.com/track/2cKrIubvZPgBQ9F9mt3hw5?si=84299dfe1cd84ce8"><img width="50%" src="https://i.pinimg.com/originals/b8/4e/ef/b84eeffcdcface511c22a42609060018.gif" align="center"/></a><br>
+  <a href="https://open.spotify.com/track/2cKrIubvZPgBQ9F9mt3hw5?si=84299dfe1cd84ce8"><img width="50%" src="https://i.postimg.cc/CxTtTB7x/a3cf2594680153f0a371084f3ed66423.jpg" align="center"/></a><br>
 </div>
 <h3 align="center">I'm Alexs! </h3>
 <h4 align="center">18, he/him, esp/eng </h4>
