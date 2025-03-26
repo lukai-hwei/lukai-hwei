@@ -14,6 +14,7 @@
   <p>
     Computer science student that spends more time in ponytown than outside<br>
     Mostly offtab, whisper to interact.<br>
+    c+h if im alone
 <div align="center">
   <a href="https://unbrokenblade.straw.page/">Strawpage!</a>ㅤㅤㅤㅤ
   <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤ
