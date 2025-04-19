@@ -1,6 +1,6 @@
 <div align="center">
-  <i>"I'll make bad art</i><br>
-  <i>for the rest of my life."</i>
+  <i>"I'll take what I can</i><br>
+  <i>and claim it as mine."</i>
   <br>
 ✦
 </div>
