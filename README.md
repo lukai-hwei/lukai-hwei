@@ -1,12 +1,12 @@
 <div align="center">
-  <i>"I'll take what I can</i><br>
-  <i>and claim it as mine."</i>
+  <i>"Hopeless is my life-force,</i><br>
+  <i>I bask in all that is tragic"</i>
   <br>
 ✦
 </div>
     <br>
 <div align="center">
-  <a href="https://open.spotify.com/track/3WfAMQG3HmkWE0OVm6158C?si=8d7bc40a6b4e452b"><img width="50%" src="https://i.imgur.com/Z7477vD.jpeg" align="center"/></a><br>
+  <a href="https://open.spotify.com/track/6a5EAvqxCySEtHuKuG5Map?si=5d72f5c257074818"><img width="50%" src="https://i.imgur.com/Z7477vD.jpeg" align="center"/></a><br>
 </div>
 <h3 align="center">Alexs</h3>
 <h4 align="center">18, he/him, esp/eng </h4>
