@@ -12,11 +12,10 @@
 <h4 align="center">18, he/him, esp/eng </h4>
 <div align="center">
   <p>
-    Computer science student that spends more time in ponytown than outside<br>
-    Mostly offtab, whisper to interact.<br>
-    c+h always
-<div align="center">
-  <a href="https://unbrokenblade.straw.page/">Strawpage!</a>ㅤㅤㅤㅤ
+    Taking a break from ponytown, inactive<br>
+    Sign ata or add me on discord if needed<br>
+    dc: trufflealexs
+<div align="center">ㅤㅤ
   <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤ
 </div>
   <br>
