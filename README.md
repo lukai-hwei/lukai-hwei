@@ -12,11 +12,12 @@
 <h4 align="center">19, he/him, esp/eng </h4>
 <div align="center">
   <p>
-    Taking a break from ponytown, inactive<br>
-    Sign ata or add me on discord if needed<br>
-    dc: trufflealexs
+    I like to play and draw :)<br>
+    C+H! Dont be shy to whisper or cuddle if im alone<br>
+
+    
 <div align="center">ㅤㅤ
-  <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤ
+  <a href="https://unbrokenblade.straw.page/">Strawpage!</a>ㅤㅤㅤㅤㅤ <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤㅤㅤㅤ
 </div>
   <br>
   
