@@ -6,7 +6,7 @@
 </div>
     <br>
 <div align="center">
-  <a href="https://open.spotify.com/track/6a5EAvqxCySEtHuKuG5Map?si=5d72f5c257074818"><img width="50%" src="https://i.imgur.com/Z7477vD.jpeg" align="center"/></a><br>
+  <a href="https://open.spotify.com/track/6a5EAvqxCySEtHuKuG5Map?si=5d72f5c257074818"><img width="50%" src="https://i.imgur.com/bXjsgwm.png" align="center"/></a><br>
 </div>
 <h3 align="center">Alexs</h3>
 <h4 align="center">19, he/him, esp/eng </h4>
