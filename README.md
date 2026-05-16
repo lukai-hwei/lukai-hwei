@@ -17,7 +17,7 @@
 
     
 <div align="center">ㅤㅤ
-  <a href="https://unbrokenblade.straw.page/">Strawpage!</a>ㅤㅤㅤㅤㅤ <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤㅤㅤㅤ
+  <a href="https://cryingandwanking.straw.page/">Strawpage!</a>ㅤㅤㅤㅤㅤ <a href="https://ayakashibakeneko.atabook.org/">Atabook!</a>ㅤㅤㅤㅤ
 </div>
   <br>
   
